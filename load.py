@@ -1,3 +1,4 @@
+#load colors for colors.csv
 import pandas as pd
 import matplotlib.colors as mcolors
 
